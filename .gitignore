@@ -4,5 +4,5 @@
 *
 
 # Keep only essential files
-
+/node_modules/
 !.gitignore
