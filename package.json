@@ -1,0 +1,29 @@
+{
+  "name": "ziya-db2",
+  "version": "0.0.0",
+  "description": "Another database for ziya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vixalien/ziya-db.git"
+  },
+  "keywords": [
+    "ziya-db",
+    "pouchdb",
+    "server"
+  ],
+  "author": "vixalien",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/vixalien/ziya-db/issues"
+  },
+  "homepage": "https://github.com/vixalien/ziya-db#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-pouchdb": "^4.2.0",
+    "pouchdb": "^7.2.2"
+  }
+}
