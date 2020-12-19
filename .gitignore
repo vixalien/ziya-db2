@@ -6,14 +6,3 @@
 # Keep only essential files
 
 !.gitignore
-
-# Package Info
-!package.json
-!package-lock.json
-
-# Config
-!config.json
-
-# Build Info
-!vercel.json
-!api/
